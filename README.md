@@ -1,5 +1,4 @@
 # Comparative_ECG_analysis
-# Comparative ECG Feature Analysis
 
 This project explores ECG-derived physiological features using records from the publicly available MIT-BIH Arrhythmia Database.
 
